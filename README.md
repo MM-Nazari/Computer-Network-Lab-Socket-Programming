@@ -5,8 +5,8 @@
 - [IDE](#ide)
 - [Installation](#installation)
 
-## Project Description
-The Report is provided in the [Phase02 Report](./IR_Phase02-Report.pdf).
+## Assignment Description
+The Report is provided in the [Lab Assignment Report](./PostReport_CNLab06-9931061.pdf).
 
 ## IDE
 This project is developed using Pycharm.
