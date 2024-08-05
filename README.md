@@ -5,6 +5,7 @@
 - [IDE](#ide)
 - [Installation](#installation)
 
+
 ## Assignment Description
 The Report is provided in the [Lab Assignment Report](./PostReport_CNLab06-9931061.pdf).
 
@@ -13,6 +14,7 @@ This project uses the following libraries:
 
 - [socket](https://docs.python.org/3/library/socket.html)
 - [threading](https://docs.python.org/3/library/threading.html)
+
 
 ## IDE
 This project is developed using Pycharm.
